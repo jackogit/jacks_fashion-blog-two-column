@@ -1,0 +1,80 @@
+body {
+	font-family: lato, sans-serif;
+	font-size: 18px;
+	line-height: 1.5;
+}
+#wrapper {
+	width: 1080px;
+	margin: 0 auto;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-weight: normal;
+	padding: 0;
+	margin: 0;
+}
+
+a {
+	color: #dd0000;
+	text-decoration: none;
+}
+
+header {
+	margin: 54px 0;
+}
+header h1 {
+	color: #dd0000;
+}
+h2 {
+	font-size: 36px;
+	color: #888888;
+}
+
+h3 {
+	font-size: 36px;
+	color: #000000;
+
+}
+
+h4 {
+
+	color: #cccccc;	
+	margin-top: 36px;
+	font-size: 27px;
+}
+
+p {
+	color: #444444;
+}
+
+article {
+	width: 720px;
+
+}
+nav a {
+	display: block;
+	width: 180px;
+	background-color: #000000;
+	color: #ffffff;
+	text-align: center;
+	text-decoration: none;
+	float: left;
+	font-size: 24px;	
+}
+main {
+	width: 720px;
+	float: left;
+}
+
+aside {
+	width: 320px;
+	float: right;
+	color: #444444;	
+}
+
+li {
+	color:red;
+}
+footer {
+	clear: both;
+}
